@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-    [x] Each game card displays all the detials of each game.
+    * [x] Each game card displays all the detials of each game.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
