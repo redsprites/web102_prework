@@ -24,14 +24,11 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/SEW7ZUh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-[Licecap](https://www.cockos.com/licecap/) for Windows
+GIF created with  [Licecap](https://www.cockos.com/licecap/) for Windows
 
 ## Notes
-
-Nice prework learned interesting stuff.
+A very good introductory prework. I learned interesting concepts.
 
 ## License
 
