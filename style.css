@@ -8,7 +8,15 @@ body {
 #tentacles {
     width: 50px;
 }
-
+.stats-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
 .header {
     display: flex;
     background-color: lightblue;
@@ -18,11 +26,6 @@ body {
     margin-right: -10px;
     margin-top: -10px;
 }
-
-.stats-container {
-    display: flex;
-}
-
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
